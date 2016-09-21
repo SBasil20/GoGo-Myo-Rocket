@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityScipts/MoveBox.cs">
+    <Files>
+      <File FileName="Assets/UnityScipts/MoveBox.cs" Line="14" Column="24" />
+      <File FileName="Assets/UnityScipts/rightJetpack.cs" Line="4" Column="1" />
+      <File FileName="Assets/UnityScipts/leftJetpack.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityScipts/rotatePitch.cs" Line="25" Column="70" />
+      <File FileName="Assets/Myo Samples/Scripts/JointOrientation.cs" Line="25" Column="32" />
+      <File FileName="Assets/Myo/Scripts/Myo.NET/Vector3.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
